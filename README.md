@@ -1,7 +1,9 @@
-﻿# Tá»± Ä‘á»™ng sá»‘ hÃ³a tÃ i liá»‡u Ä‘áº£ng viÃªn â€“ Báº£n cÃ i Ä‘áº·t
+# Tự động số hóa tài liệu đảng viên – Bản cài đặt
 
-Táº£i báº£n má»›i nháº¥t táº¡i má»¥c **[Releases](https://github.com/dinhquockhanhneuvnu/TuDongSoHoa-Release/releases/latest)**.
+Tải bản mới nhất tại mục **[Releases](https://github.com/dinhquockhanhneuvnu/TuDongSoHoa-Release/releases/latest)**.
 
-1. Táº£i `TuDongSoHoa.zip`
-2. Giáº£i nÃ©n ra má»™t thÆ° má»¥c (vÃ­ dá»¥ Desktop)
-3. Cháº¡y `TuDongSoHoa.exe`
+1. Tải `TuDongSoHoa.zip`
+2. Giải nén ra một thư mục (ví dụ Desktop)
+3. Chạy `TuDongSoHoa.exe`
+
+Từ phiên bản 1.2, phần mềm tự kiểm tra bản mới khi mở – có bản mới chỉ cần bấm **Cập nhật ngay**.
